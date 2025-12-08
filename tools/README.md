@@ -1,0 +1,1 @@
+# Utility scripts for Mind Model project
